@@ -1,6 +1,3 @@
-*, *:before, *:after {
-    box-sizing: border-box;
-}
 .frame {
     position: absolute;
     top: 50%;
